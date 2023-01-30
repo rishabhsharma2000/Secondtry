@@ -1,7 +1,7 @@
 
 public class FindMissingElement {
     public static void main(String[] args) {
-        int arr[] = { 2, 4, 1, 0 };
+        int arr[] = { 0, 5, 3, 2, 4, 1 };
         System.out.println(missingElement(arr));
     }
 
